@@ -1,0 +1,7 @@
+../Src/tasks.c:17:6:task1_handler	1
+../Src/tasks.c:41:6:task2_handler	1
+../Src/tasks.c:64:6:task3_handler	1
+../Src/tasks.c:88:6:task4_handler	1
+../Src/tasks.c:112:6:idle_task	1
+../Src/tasks.c:117:6:task_delay	2
+../Src/tasks.c:136:6:delay	2

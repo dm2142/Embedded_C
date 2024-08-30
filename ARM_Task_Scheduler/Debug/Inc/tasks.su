@@ -1,0 +1,4 @@
+../Inc/tasks.c:17:6:task1_handler	8	static
+../Inc/tasks.c:24:6:task2_handler	8	static
+../Inc/tasks.c:31:6:task3_handler	8	static
+../Inc/tasks.c:38:6:task4_handler	8	static
