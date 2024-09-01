@@ -1,0 +1,2 @@
+../Drivers/Src/smt32f446re_rcc_driver.c:11:10:GetAPB1Clock	48	static
+../Drivers/Src/smt32f446re_rcc_driver.c:39:10:GetAPB2Clock	48	static

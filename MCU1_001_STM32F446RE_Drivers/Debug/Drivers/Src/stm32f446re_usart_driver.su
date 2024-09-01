@@ -1,0 +1,13 @@
+../Drivers/Src/stm32f446re_usart_driver.c:12:13:USART_SetBaudRate	32	static
+../Drivers/Src/stm32f446re_usart_driver.c:38:6:USART_PeriClockControl	16	static
+../Drivers/Src/stm32f446re_usart_driver.c:62:6:USART_Init	16	static
+../Drivers/Src/stm32f446re_usart_driver.c:102:6:USART_DeInit	16	static
+../Drivers/Src/stm32f446re_usart_driver.c:112:6:USART_SendData	32	static
+../Drivers/Src/stm32f446re_usart_driver.c:146:7:USART_ReceiveData	24	static
+../Drivers/Src/stm32f446re_usart_driver.c:181:9:USART_SendDataIT	32	static
+../Drivers/Src/stm32f446re_usart_driver.c:201:9:USART_ReceiveDataIT	32	static
+../Drivers/Src/stm32f446re_usart_driver.c:219:6:USART_IRQHandling	24	static
+../Drivers/Src/stm32f446re_usart_driver.c:369:6:USART_IRQInterruptConfig	16	static
+../Drivers/Src/stm32f446re_usart_driver.c:395:6:USART_IRQPriorityConfig	24	static
+../Drivers/Src/stm32f446re_usart_driver.c:406:29:USART_ApplicationEventCallback	16	static
+../Drivers/Src/stm32f446re_usart_driver.c:410:6:USART_EnablePer	16	static

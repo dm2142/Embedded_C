@@ -1,0 +1,9 @@
+../Drivers/Src/stm32f446re_spi_driver.c:12:6:SPI_PeriClockControl	10
+../Drivers/Src/stm32f446re_spi_driver.c:32:6:SPI_Init	2
+../Drivers/Src/stm32f446re_spi_driver.c:54:6:SPI_DeInit	5
+../Drivers/Src/stm32f446re_spi_driver.c:63:6:SPI_SendData	4
+../Drivers/Src/stm32f446re_spi_driver.c:88:6:SPI_ReceiveData	4
+../Drivers/Src/stm32f446re_spi_driver.c:113:6:SPI_IRQInterruptConfig	12
+../Drivers/Src/stm32f446re_spi_driver.c:131:6:SPI_IRQPriorityConfig	1
+../Drivers/Src/stm32f446re_spi_driver.c:142:6:SPI_EnablePer	3
+../Drivers/Src/stm32f446re_spi_driver.c:147:6:SPI_EnableSlaveSelectOutput	3

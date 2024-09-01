@@ -1,0 +1,5 @@
+../Src/App_RTC_LCD.c:22:6:systick_timer_initialization	1
+../Src/App_RTC_LCD.c:42:6:number_to_string	4
+../Src/App_RTC_LCD.c:56:7:time_to_string	1
+../Src/App_RTC_LCD.c:75:5:main	1
+../Src/App_RTC_LCD.c:103:6:SysTick_Handler	1
