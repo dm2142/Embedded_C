@@ -1,0 +1,5 @@
+../Core/Src/main_app.c:18:5:main	1
+../Core/Src/main_app.c:46:6:SystemClock_Config	20
+../Core/Src/main_app.c:196:6:UART2_Init	2
+../Core/Src/main_app.c:211:13:RCC_Print_Clocks	1
+../Core/Src/main_app.c:228:6:Error_Handler	1

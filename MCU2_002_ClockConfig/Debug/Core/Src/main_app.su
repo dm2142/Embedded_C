@@ -1,0 +1,5 @@
+../Core/Src/main_app.c:18:5:main	8	static
+../Core/Src/main_app.c:46:6:SystemClock_Config	168	static
+../Core/Src/main_app.c:196:6:UART2_Init	8	static
+../Core/Src/main_app.c:211:13:RCC_Print_Clocks	264	static
+../Core/Src/main_app.c:228:6:Error_Handler	4	static
