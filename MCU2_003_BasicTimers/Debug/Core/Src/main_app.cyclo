@@ -1,0 +1,8 @@
+../Core/Src/main_app.c:19:5:main	1
+../Core/Src/main_app.c:43:6:SystemClock_Config	20
+../Core/Src/main_app.c:193:6:UART2_Init	2
+../Core/Src/main_app.c:208:13:RCC_Print_Clocks	1
+../Core/Src/main_app.c:225:6:TIM6_Init	2
+../Core/Src/main_app.c:236:6:LED_Init	1
+../Core/Src/main_app.c:252:6:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/main_app.c:258:6:Error_Handler	1
